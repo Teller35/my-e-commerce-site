@@ -4,10 +4,10 @@
 
 ## Description:
 
-#### _This_
+#### _This is a basic backend e commerce site using mySQL to preform CRUD!_
 
-_[View Project on GitHub](https://github.com/teller35/my-e-commerce-site)_
-_[View Walktrough](https://drive.google.com/file/d/1TMwjCnWwXzRHhMbniakY1z0EEnuf1G_o/view?usp=sharing)_
+- _[View Project on GitHub](https://github.com/teller35/my-e-commerce-site)_
+- _[View Walktrough](https://drive.google.com/file/d/1TMwjCnWwXzRHhMbniakY1z0EEnuf1G_o/view?usp=sharing)_
 
 ## Table of Contents:
 
@@ -26,7 +26,7 @@ _[View Walktrough](https://drive.google.com/file/d/1TMwjCnWwXzRHhMbniakY1z0EEnuf
 
 ## Usage
 
-#### _Not sure yet_
+#### _NONE_
 
 ## Credits
 
@@ -53,3 +53,7 @@ _[View Walktrough](https://drive.google.com/file/d/1TMwjCnWwXzRHhMbniakY1z0EEnuf
 - #### _Built with ❤️ by Teller Wetzel_
 
 ## Screenshots
+
+### _connection.js file_
+
+![image](https://user-images.githubusercontent.com/79383305/121793158-8a9f0e00-cbb9-11eb-8fd9-785f925075c6.png)
